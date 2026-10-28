@@ -18,6 +18,8 @@ public class StudentProfile {
         System.out.println("Name: Siti Nor Raihanah Binti Muhamad Rozihan");
         System.out.println("Student ID: S84800");
         System.out.println("Programme: Bachelor of Computer Science");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }

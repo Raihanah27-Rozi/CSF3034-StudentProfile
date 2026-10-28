@@ -1,5 +1,3 @@
-# CSF3034 Student Profile
+# CSF3034 StudentProfile
 
-This project is created for learning Java, Git and GitHub.
-
-Activity 7
+GitHub Pull and Collaboration
